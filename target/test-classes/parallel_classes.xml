@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Mysuite" parallel="classes" thread-count="2" >
+  <test name="Test">
+  
+    <classes>
+      <class name="javaprogrammes.Anagrams"/>
+      <class name="javaprogrammes.Palindrome"/>
+    </classes>
+    
+    <!-- this will run above two classes in parallel -->
+    
+    
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

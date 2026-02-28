@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MySuite"  parallel="methods">
+  <test name="MyTest">
+  
+    <classes>
+      <class name="JavaProgrammes.Palindrome"/>
+    </classes>
+    
+    <!-- this will run methods with in Test class parallel -->
+    
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
